@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SwiftObserver_Example' do
+  pod 'SwiftObserver', :path => '../'
+
+  target 'SwiftObserver_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

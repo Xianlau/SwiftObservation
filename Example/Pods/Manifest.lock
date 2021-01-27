@@ -1,0 +1,16 @@
+PODS:
+  - SwiftObserver (0.1.0)
+
+DEPENDENCIES:
+  - SwiftObserver (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftObserver:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftObserver: bfda91a1099a1fd00930f6d4454fe6d5212b7811
+
+PODFILE CHECKSUM: fd9ab3b0106ee996afa8d9afbe14744ac4864d41
+
+COCOAPODS: 1.8.3
