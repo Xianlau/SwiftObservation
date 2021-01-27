@@ -1,5 +1,5 @@
 import XCTest
-import SwiftObserver
+import SwiftObservation
 
 class Tests: XCTestCase {
     

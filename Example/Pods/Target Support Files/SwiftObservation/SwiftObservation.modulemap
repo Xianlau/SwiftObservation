@@ -1,0 +1,6 @@
+framework module SwiftObservation {
+  umbrella header "SwiftObservation-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SwiftObservation_Tests {
+  umbrella header "Pods-SwiftObservation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
