@@ -1,4 +1,4 @@
-###为了减少通知的使用, 提高代码的聚合, 用swift 写的一个事件订阅分发器.
+###为了提高代码的聚合, 用swift 写的一个事件订阅分发器.
 - 支持cocoapods        `pod 'SwiftObservation'`
 
 - 具体说明 https://www.jianshu.com/p/484280dc3a74
